@@ -1,4 +1,4 @@
-# Zotion
+# Knowledge base
 
 This project is a simplified clone of the popular productivity application, Notion. It's designed to replicate some of the core features of Notion, providing a platform where users can create, edit, and organize their notes in a flexible and intuitive interface.
 
@@ -6,7 +6,7 @@ It uses Convex as the backend, which is a real-time database that allows for ins
 
 ## Live
 
-Zotion - [https://zotion-app.vercel.app/](https://zotion-app.vercel.app/)
+Knowledge base - [https://Knowledge base-app.vercel.app/](https://Knowledge base-app.vercel.app/)
 
 ## Features
 
